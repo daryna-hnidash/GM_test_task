@@ -1,4 +1,5 @@
 # Test tast by Daryna Hnidash
+--> **[DEMO LINK](https://daryna-hnidash.github.io/GM_test_task/)** <--
 
 ## Technologies that were used:
 - React.js + Vite;
