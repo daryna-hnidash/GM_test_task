@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border-blue {
+  border-color: #0177B8;
+}
+.border-orange {
+  border-color: #F5AF23;
+}
+.border-red {
+  border-color: #F02E2C;
+}
+.border-green {
+  border-color: #179D2E;
+}
+
+.outdoor {
+  width: 94px; height: 100px;
+  background: url('css_sprites.png') -10px -250px;
+}
+
+.home {
+  width: 116px; height: 100px;
+  background: url('css_sprites.png') -10px -130px;
+}
+
+.instalation {
+  width: 98px; height: 100px;
+  background: url('css_sprites.png') -290px -130px;
+}
+
+.picture {
+  width: 117px; height: 100px;
+  background: url('css_sprites.png') -153px -10px;
+}
+
+.door {
+  width: 110px; height: 100px;
+  background: url('css_sprites.png') -290px -10px;
+}
+
+.electrical {
+  width: 111px; height: 100px;
+  background: url('css_sprites.png') -146px -130px;
+}
+
+.furniture {
+  width: 123px; height: 100px;
+  background: url('css_sprites.png') -10px -10px;
+}
+
+.paint {
+  width: 91px; height: 100px;
+  background: url('css_sprites.png') -238px -250px;
+}
+
+.plumb {
+  width: 94px; height: 100px;
+  background: url('css_sprites.png') -124px -250px;
+}
